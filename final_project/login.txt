@@ -1,0 +1,1 @@
+{"message":"User successfully logged in","accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNoYWRlbiIsImlhdCI6MTc3OTU4Mzc0OCwiZXhwIjoxNzc5NTg3MzQ4fQ.X-EDjE-EaKOlAfJpua8rnJtlhjbFJVjBLBMhO3pWUzs"}
